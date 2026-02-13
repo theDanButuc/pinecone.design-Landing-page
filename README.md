@@ -1,4 +1,4 @@
-# Pinecone – Targeted Landing Page
+# www.pinecone.design – Pre-Launch Landing Page
 
 This repository contains a targeted landing page built as part of the Pinecone digital ecosystem.
 
